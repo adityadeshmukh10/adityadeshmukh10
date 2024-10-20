@@ -1,7 +1,7 @@
 ![logo](https://github.com/adityadeshmukh10/adityadeshmukh10/blob/main/Banner.png)
 
 
-<h1 align="center"></h1>"🚀 Welcome! I’m Aditya Deshmukh, blasting off into the coding cosmos!"
+<h1 align="center">"🚀 Welcome! I’m Aditya Deshmukh, blasting off into the coding cosmos!"</h1>
 <h3 align="center">"Eager to advance in backend development and AI/ML, I am seeking opportunities to gain hands-on experience and apply my strong problem-solving skills to tackle real-world challenges in these fields."</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
