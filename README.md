@@ -1,4 +1,4 @@
-![logo](https://github.com/adityadeshmukh10/adityadeshmukh10/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+![logo](https://github.com/adityadeshmukh10/adityadeshmukh10/blob/main/Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
