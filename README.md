@@ -1,4 +1,4 @@
-![logo]([https://github.com/adityadeshmukh10/adityadeshmukh10/blob/main/%2B91-9607711233.png])
+![logo](https://github.com/adityadeshmukh10/adityadeshmukh10/blob/main/%2B91-9607711233.png)
 <h1 align="center">Hi 👋, I'm Aditya Deshmukh</h1>
 <h3 align="center">"Eager to advance in backend development and AI/ML, I am seeking opportunities to gain hands-on experience and apply my strong problem-solving skills to tackle real-world challenges in these fields."</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
